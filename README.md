@@ -13,7 +13,11 @@
 - Game mechanics design
 
 ### 🎮 Latest Projects
-[![Steam Widget](https://store.steampowered.com/widget/3048670/)](https://store.steampowered.com/app/3048670/)
+<p align="left">
+  <a href="https://store.steampowered.com/app/3048670/100_Dogs/">
+    <img src="https://github.com/NemoKaim/NemoKaim/blob/main/assets/embed1.png" alt="Header">
+  </a>
+</p>
 - [100 Dogs](https://store.steampowered.com/app/3048670/100_Dogs/) – a 3D game about finding dogs 
 - [Chill Guy](https://store.steampowered.com/app/3505700/Chill_Guy/) – a psychological horror game with memes  
 
