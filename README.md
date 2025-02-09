@@ -19,7 +19,6 @@
 ---
 
 <p align="center">
-  📢 <b>Follow me:</b> 
-  [Steam](https://store.steampowered.com/curator/45361862/)
+  📢 <b>Follow me:</b> [Steam](https://store.steampowered.com/curator/45361862/)
   [Telegram](https://t.me/AAngeldev)
 </p>
