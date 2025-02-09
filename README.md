@@ -5,7 +5,7 @@
 </p>
 
 
-About me
+## Game Developer
 
 Latest Projects
 
