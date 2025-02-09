@@ -13,6 +13,7 @@
 - Game mechanics design
 
 ### 🎮 Latest Projects
+<iframe src="https://store.steampowered.com/widget/3048670/" frameborder="0" width="646" height="190"></iframe>
 - [100 Dogs](https://store.steampowered.com/app/3048670/100_Dogs/) – a 3D game about finding dogs 
 - [Chill Guy](https://store.steampowered.com/app/3505700/Chill_Guy/) – a psychological horror game with memes  
 
