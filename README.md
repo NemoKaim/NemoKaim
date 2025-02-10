@@ -9,9 +9,11 @@
 ---
 
 ### 🔧 Tech Stack
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"> 
-<img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<div >
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+  <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" alt="Sublime Text" title="Sublime Text"/></code>
+</div>
 
 ### 🎮 Latest Projects
 <p align="left">
