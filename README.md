@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="right">
+  <a href="https://store.steampowered.com/app/3505700/Lobotomy/">
+    <img src="https://github.com/NemoKaim/NemoKaim/blob/main/assets/embed2.png" alt="Header">
+  </a>
+</p>
+
 ---
 
 ### 📢 Follow me:
