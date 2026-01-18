@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Nikita
 
 **Low-level Systems & Game Engine Developer**  
 Building high-performance software from scratch in Almaty, Kazakhstan.
