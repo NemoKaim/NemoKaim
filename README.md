@@ -7,7 +7,7 @@ Building high-performance software from scratch in Almaty, Kazakhstan.
 
 ## 🎯 What I Do
 
-I architect and implement complex systems: from custom C++ game engines with Vulkan rendering to production-grade web applications handling real-world load. I ship — published games on Steam, maintained SaaS platforms, and built dev tools that actually work.
+I architect and implement complex systems: from custom C++ game engines with Vulkan rendering to production-grade web applications handling real-world load. I ship - published games on Steam, maintained SaaS platforms, and built dev tools that actually work.
 
 ---
 
@@ -35,7 +35,7 @@ I architect and implement complex systems: from custom C++ game engines with Vul
 Multi-threaded ECS architecture built from scratch. Focus on voxel-based worlds, physics integration, and modding APIs. Clean, performance-oriented code without unnecessary dependencies.
 
 ### 📦 Published Steam Games
-**[Lobotomy](https://store.steampowered.com/app/3505700/Lobotomy/)** and **[100 Dogs](https://store.steampowered.com/app/3048670/100_Dogs/)** — full development lifecycle from prototype to release and post-launch support. Production backend, player analytics, and community management.
+**[Lobotomy](https://store.steampowered.com/app/3505700/Lobotomy/)** and **[100 Dogs](https://store.steampowered.com/app/3048670/100_Dogs/)** full development lifecycle from prototype to release and post-launch support.
 
 ### 🌐 Project Management SaaS
 Backend optimization and architecture refactoring for legacy ASP.NET application. Database redesign, UI modernization with Blazor, production deployment.
