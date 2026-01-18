@@ -51,9 +51,9 @@ Remote roles where architecture matters: game engines, graphics programming, per
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com
-- **Telegram:** @yourusername
-- **Discord:** yourusername#1234
+- **Email:** vtbyyubt@gmail.com
+- **Telegram:** @Chertenak
+- **Discord:** chhert
 - **Location:** Almaty, KZ (open to global remote)
 
 ---
